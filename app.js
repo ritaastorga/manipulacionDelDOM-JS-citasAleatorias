@@ -13,3 +13,5 @@ function cambiarCita() {
 }
 
 cambiarCita();
+
+botonElemento.addEventListener("click", cambiarCita);
